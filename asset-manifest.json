@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/deploydemoreact/static/css/main.112ba403.chunk.css",
+    "main.js": "/deploydemoreact/static/js/main.62a4b018.chunk.js",
+    "main.js.map": "/deploydemoreact/static/js/main.62a4b018.chunk.js.map",
+    "runtime-main.js": "/deploydemoreact/static/js/runtime-main.c12b0e08.js",
+    "runtime-main.js.map": "/deploydemoreact/static/js/runtime-main.c12b0e08.js.map",
+    "static/js/2.87b6914c.chunk.js": "/deploydemoreact/static/js/2.87b6914c.chunk.js",
+    "static/js/2.87b6914c.chunk.js.map": "/deploydemoreact/static/js/2.87b6914c.chunk.js.map",
+    "static/js/3.3a4f9c76.chunk.js": "/deploydemoreact/static/js/3.3a4f9c76.chunk.js",
+    "static/js/3.3a4f9c76.chunk.js.map": "/deploydemoreact/static/js/3.3a4f9c76.chunk.js.map",
+    "index.html": "/deploydemoreact/index.html",
+    "static/css/main.112ba403.chunk.css.map": "/deploydemoreact/static/css/main.112ba403.chunk.css.map",
+    "static/js/2.87b6914c.chunk.js.LICENSE.txt": "/deploydemoreact/static/js/2.87b6914c.chunk.js.LICENSE.txt",
+    "static/media/visibility_black_24dp.463f70d0.svg": "/deploydemoreact/static/media/visibility_black_24dp.463f70d0.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c12b0e08.js",
+    "static/js/2.87b6914c.chunk.js",
+    "static/css/main.112ba403.chunk.css",
+    "static/js/main.62a4b018.chunk.js"
+  ]
+}
